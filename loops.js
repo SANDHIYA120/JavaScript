@@ -44,11 +44,11 @@ console.log(b)
 
 
 
-let name="sandhiya"
+//let name="sandhiya"
 
-for(i=0;i<name.length;i++){
+//for(i=0;i<name.length;i++){
     //console.log(name[i])
-}
+//}
 
 let c=""
 for(i=0;i<name.length;i++){
